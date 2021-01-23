@@ -1,6 +1,6 @@
 # HSK Standard Course Vocabulary
 
-The official Hanban HSK standard coursebooks have word list in the back. This repo aims to have accurate digitized versions of those word lists.
+The HSK standard coursebooks have word list in the back. This repo aims to have accurate digitized versions of those word lists.
 
 This could be useful for building flashcard decks or other learning resources.
 
