@@ -1,6 +1,6 @@
 Word/Phrase	Pinyin	Part of Speech	Meaning	Lesson
 哎	āi	int.	used to express surprise or dissatisfaction	7
-唉	āi	int.	sighing sound indicating sadness or regret	7
+唉	ài	int.	sighing sound indicating sadness or regret	7
 爱护	àihù	v.	to take good care of	1
 安慰	ānwèi	v.	to comfort, to console	8
 安装	ānzhuāng	v.	to install, to fix	13
@@ -15,7 +15,7 @@ Word/Phrase	Pinyin	Part of Speech	Meaning	Lesson
 保存	bǎocún	v.	to keep, to save	9
 报道	bàodào	v./n.	to report, to cover; report	16
 抱怨	bàoyuàn	v.	to complain	1
-背	bèi	v.	to carry on the back	4
+背	bēi	v.	to carry on the back	4
 背景	bèijǐng	n.	background	12
 被子	bèizi	n.	quilt	2
 本领	běnlǐng	n.	ability, capability	4
@@ -116,7 +116,7 @@ Word/Phrase	Pinyin	Part of Speech	Meaning	Lesson
 递	dì	v.	to hand over, to pass	1
 点心	diǎnxin	n.	dessert, dim sum	9
 电台	diàntái	n.	radio station	1
-约	yuē	v.	to fish with a hook and line	3
+钓	diào	v.	to fish with a hook and line	3
 顶	dǐng	v.	to go against, to move towards	4
 冻	dòng	v.	to freeze, to feel very cold	2
 洞	dòng	n.	hole	10
@@ -173,7 +173,7 @@ Word/Phrase	Pinyin	Part of Speech	Meaning	Lesson
 姑娘	gūniang	n.	girl	6
 古代	gǔdài	n.	ancient times	4
 古典	gǔdiǎn	adj.	classical	18
-骨(头)	gǔ(tóu)	n.	bone	6
+骨(头)	gǔ(tou)	n.	bone	6
 固定	gùdìng	adj./v.	fixed, settled; to fix	8
 关闭	guānbì	v.	to close, to shut	14
 官	guān	n.	government official	4
@@ -226,7 +226,7 @@ Word/Phrase	Pinyin	Part of Speech	Meaning	Lesson
 计算	jìsuàn	v.	to calculate, to compute	11
 记忆	jìyì	v./n.	to remember; memory	11
 纪念	jìniàn	v.	to commemorate	10
-系	xì	v.	to tie, to fasten	10
+系	jì	v.	to tie, to fasten	10
 家庭	jiātíng	n.	family	8
 甲	jiǎ	n.	first	13
 驾驶	jiàshǐ	v.	to drive, to pilot	3
@@ -246,7 +246,7 @@ Word/Phrase	Pinyin	Part of Speech	Meaning	Lesson
 戒	jiè	v.	to give up, to quit	9
 借口	jièkǒu	n./v.	excuse, pretext; to use as an excuse	16
 金属	jīnshǔ	n.	metal	7
-尽(カ)	jǐn(カ)	v.	to try one's best	7
+尽(カ)	jǐn(lì)	v.	to try one's best	7
 近代	jìndài	n.	modern times (referring to the period between mid-19th century and 1919 in Chinese history)	9
 经营	jīngyíng	v.	to manage, to run	12
 精神	jīngshén	n./adj.	spirit, vigor; lively, vigorous	11
@@ -274,11 +274,11 @@ Word/Phrase	Pinyin	Part of Speech	Meaning	Lesson
 姥姥	lǎolao	n.	maternal grandma	2
 雷	léi	n.	thunder	3
 类型	lèixíng	n.	type, category	16
-离婚	líhūn	v.	to divorce	1
+离婚	lí hūn	v.	to divorce	1
 理论	lǐlùn	n.	theory	15
 立即	lìjí	adv.	immediately, at once	16
 立刻	lìkè	adv.	at once, immediately	2
-|连忙	|liánmáng	adv.	promptly, at once	13
+连忙	liánmáng	adv.	promptly, at once	13
 连续	liánxù	v.	to be continuous, to be in succession	7
 联合	liánhé	v./adj.	to unite, to ally; joint, combined	16
 良好	liánghǎo	adj.	good, fine	17
@@ -436,7 +436,7 @@ Word/Phrase	Pinyin	Part of Speech	Meaning	Lesson
 调整	tiáozhěng	v./n.	to adjust, to revise; adjustment	18
 挑战	tiǎozhàn	v./n.	to challenge, to battle; challenge	15
 通常	tōngcháng	adv.	usually	14
-投篮	tóulán	v.	to shoot (a basket)	13
+投篮	tóu lán	v.	to shoot (a basket)	13
 投入	tóurù	v./n./adj.	to put into, to spend on; input; devoted	17
 突出	tūchū	adj.	prominent, salient	9
 推广	tuīguǎng	v.	to popularize, to spread	12
@@ -445,8 +445,8 @@ Word/Phrase	Pinyin	Part of Speech	Meaning	Lesson
 完整	wánzhěng	adj.	complete	8
 危害	wēihài	v.	to harm, to jeopardize	11
 微笑	wēixiào	v./n.	to smile; smile	2
-为	wèi	v.	to become	5
-为	wèi	prep.	"(often. used together with ""Pf "") by (sb.)"	14
+为	wéi	v.	to become	5
+为	wéi	prep.	"(often. used together with ""Pf "") by (sb.)"	14
 围绕	wéirào	v.	to center around	10
 尾巴	wěiba	n.	tail	7
 委屈	wěiqu	v./adj.	to do (sb.) wrong; feeling wronged	4
@@ -563,7 +563,7 @@ Word/Phrase	Pinyin	Part of Speech	Meaning	Lesson
 整个	zhěnggè	adj.	whole, entire	6
 整体	zhěngtǐ	n.	whole, entirety	8
 证据	zhèngjù	n.	proof, evidence	18
-挣	zhēng	v.	to earn	2
+挣	zhèng	v.	to earn	2
 支	zhī	m.	used for long, thin, inflexible objects	7
 至今	zhìjīn	adv.	up to now	4
 志愿者	zhìyuànzhě	n.	volunteer	16
