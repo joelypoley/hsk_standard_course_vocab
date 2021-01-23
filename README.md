@@ -2,7 +2,7 @@
 
 The official Hanban HSK standard coursebooks have word list in the back. This repo aims to have an accurate digitized version of those word lists.
 
-This coudld be useful for building flashcard decks or other learning resources.
+This could be useful for building flashcard decks or other learning resources.
 
 ## Current Status
 
@@ -19,5 +19,3 @@ This repo is a work in progress. The table below summarizes which of the word li
 | HSK 5下   | ✘         | ✘            | ✘                                  | ✘                                              | ✘                        |
 | HSK 6上   | ✘         | ✘            | ✘                                  | ✘                                              | ✘                        |
 | HSK 6下   | ✘         | ✘            | ✘                                  | ✘                                              | ✘                        |
-
-
