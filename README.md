@@ -22,4 +22,4 @@ This repo is a work in progress. The table below summarizes which of the word li
 
 ✓ = Done.
 ✘ = Not complete.
-- = Not applicable.
+\- = Not applicable.
