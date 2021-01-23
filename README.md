@@ -8,7 +8,7 @@ This could be useful for building flashcard decks or other learning resources.
 
 This repo is a work in progress. The table below summarizes which of the word lists have been completed.
 
-| HSK Level | New Words | Proper Nouns | Words Not Included in the Syllabus | New Words Made Up of Characters Learned before | Supplementary Vocabulary |
+| HSK Coursebook | New Words | Proper Nouns | Words Not Included in the Syllabus | New Words Made Up of Characters Learned before | Supplementary Vocabulary |
 |-----------|-----------|--------------|------------------------------------|------------------------------------------------|--------------------------|
 | HSK 1     | ✘         | ✘            | ✘                                  | ✘                                              | ✘                        |
 | HSK 2     | ✘         | ✘            | ✘                                  | ✘                                              | ✘                        |
