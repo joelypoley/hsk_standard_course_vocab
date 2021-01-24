@@ -41,4 +41,6 @@ For each HSK coursebook:
 
 ## I found a mistake!
 
-Please open an issue on this repository and describe the mistake. If you don't know how to do that, or don't have a github account, then email joel.laity@gmail.com and describe the mistake.
+If you find a mistake please email joel.laity@gmail.com and describe the mistake.
+
+Alternatively, if you know how to use github then either (1) open and issue or (2) send a pull request fixing the mistake.
