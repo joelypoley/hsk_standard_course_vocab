@@ -43,4 +43,4 @@ For each HSK coursebook:
 
 If you find a mistake please email joel.laity@gmail.com and describe the mistake.
 
-Alternatively, if you know how to use github then either (1) open and issue or (2) send a pull request fixing the mistake.
+Alternatively, if you know how to use github then either (1) open an issue or (2) send a pull request fixing the mistake (or both!).
