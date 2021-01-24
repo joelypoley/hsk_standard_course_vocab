@@ -16,7 +16,7 @@ This repo is a work in progress. The table below summarizes which of the word li
 | HSK 4上   | ✘         | ✘            | ✘                                  | ✘                                              | ✘                        |
 | HSK 4下   | ✘         | ✘            | ✘                                  | ✘                                              | ✘                        |
 | HSK 5上   | ✓         | ✘            | ✘                                  | -                                              | -                        |
-| HSK 5下   | ✘         | ✘            | ✘                                  | -                                              | -                        |
+| HSK 5下   | ✓         | ✘            | ✘                                  | -                                              | -                        |
 | HSK 6上   | ✘         | ✘            | ✘                                  | ✘                                              | ✘                        |
 | HSK 6下   | ✘         | ✘            | ✘                                  | ✘                                              | ✘                        |
 
