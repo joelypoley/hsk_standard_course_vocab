@@ -39,6 +39,6 @@ For each HSK coursebook:
  1. Use the [Dragon Mapper](https://dragonmapper.readthedocs.io/en/latest/) library to convert the characters into pinyin.
  1. Manually check the pinyin for all single character words. There are often multiple pronunciations for a single character, for example 得 can be pronounced dé, de or děi so the pinyin that Dragon Mapper outputs needs to be manually checked for single characters.
 
-## I found a mistake
+## I found a mistake!
 
 Please open an issue on this repository and describe the mistake. If you don't know how to do that, or don't have a github account, then email joel.laity@gmail.com and describe the mistake.
