@@ -24,7 +24,7 @@ This repo is a work in progress. The table below summarizes which of the word li
 ✘ = Not complete.
 \- = Not applicable.
 
-## Is this accurate?
+## Are the word lists accurate?
 
 These lists were made with a combination of optical character recognition (OCR) and manual corrections. There may be errors in the word lists. I have not manually checked every single entry.
 
