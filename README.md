@@ -23,3 +23,22 @@ This repo is a work in progress. The table below summarizes which of the word li
 ✓ = Done.
 ✘ = Not complete.
 \- = Not applicable.
+
+## Accuracy
+
+These lists were made with a combination of optical character recognition (OCR) and manual corrections. There may be errors in the word lists. I have not manually checked every single entry.
+
+## How is this made?
+
+For each HSK coursebook:
+
+ 1. Take a picture of each page in the back of the book that contains the word tables.
+ 1. Crop the each of the columns in the tables except for the pinyin column. OCR does not work very well on pinyin so the pinyin is based on the character column.
+ 1. Use OCR to read each column. I use the Google Cloud Vision API.
+ 1. Manually correct anything the OCR got wrong.
+ 1. Use the [Dragon Mapper](https://dragonmapper.readthedocs.io/en/latest/) library to convert the characters into pinyin.
+ 1. Manually check the pinyin for all single character words. There are often multiple pronunciations for a single character, for example 得 can be pronounced dé, de or děi so the pinyin that Drgaon Mapper outputs needs to be manually checked for single characters.
+
+## I found a mistake
+
+Please open an issue on this repository and describe the mistake. If you don't know how to do that, or don't have a github account, then email joel.laity@gmail.com and describe the mistake.
