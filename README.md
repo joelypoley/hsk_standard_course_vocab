@@ -37,7 +37,7 @@ For each HSK coursebook:
  1. Use OCR to read each column. I use the Google Cloud Vision API.
  1. Manually correct anything the OCR got wrong.
  1. Use the [Dragon Mapper](https://dragonmapper.readthedocs.io/en/latest/) library to convert the characters into pinyin.
- 1. Manually check the pinyin for all single character words. There are often multiple pronunciations for a single character, for example 得 can be pronounced dé, de or děi so the pinyin that Drgaon Mapper outputs needs to be manually checked for single characters.
+ 1. Manually check the pinyin for all single character words. There are often multiple pronunciations for a single character, for example 得 can be pronounced dé, de or děi so the pinyin that Dragon Mapper outputs needs to be manually checked for single characters.
 
 ## I found a mistake
 
