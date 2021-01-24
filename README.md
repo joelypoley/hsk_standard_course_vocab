@@ -33,7 +33,7 @@ These lists were made with a combination of optical character recognition (OCR) 
 For each HSK coursebook:
 
  1. Take a picture of each page in the back of the book that contains the word tables.
- 1. Crop the each of the columns in the tables except for the pinyin column. OCR does not work very well on pinyin so the pinyin is based on the character column.
+ 1. Crop each of the columns in the tables except for the pinyin column. OCR does not work very well on pinyin so the pinyin is based on the character column.
  1. Use OCR to read each column. I use the Google Cloud Vision API.
  1. Manually correct anything the OCR got wrong.
  1. Use the [Dragon Mapper](https://dragonmapper.readthedocs.io/en/latest/) library to convert the characters into pinyin.
