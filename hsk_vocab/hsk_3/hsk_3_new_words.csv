@@ -59,21 +59,21 @@ Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson
 段,duàn,m.,used for sections or periods,18
 锻炼,duànliàn,v.,to do physical exercise,6
 多么,duōme,adv.,"very, to a great extent",20
-俄,é,e,hungry,4
-耳朵,ěrduo,adj.,ear,19
-发,fā,n.,to send,15
+饿,è,adj.,hungry,4
+耳朵,ěrduo,n.,ear,19
+发,fā,v.,to send,15
 发烧,fāshāo,v.,to have a fever,5
 发现,fāxiàn,v.,to discover,12
-方便,fāngbiàn,v.,convenient,10
-放,fàng,adj.,"to put, to place",3
+方便,fāngbiàn,adj.,convenient,10
+放,fàng,v.,"to put, to place",3
 放心,fàngxīn,v.,"to ease one's mind, to rest assured",9
-分,fēn,v.,"fen, a unit of money (-1/10 jiao)",4
-分,fēn,m.,to distinguish,20
-附近,fùjìn,v.,"nearby, vicinity",10
-复习,fùxí,n.,to review,1
-千净,qiānjìng,v.,clean,14
-感冒,gǎnmào,adj.,to catch a cold,5
-感兴趣,gǎnxìngqù,v.,to be interested in,7
+分,fēn,m.,"fen, a unit of money (-1/10 jiao)",4
+分,fēn,v.,to distinguish,20
+附近,fùjìn,n.,"nearby, vicinity",10
+复习,fùxí,v.,to review,1
+干净,gānjìng,adj.,clean,14
+感冒,gǎnmào,v.,to catch a cold,5
+感兴趣,gǎnxìngqù,,to be interested in,7
 刚才,gāngcái,n.,just now,6
 个子,gèzi,n.,"height, stature",10
 根据,gēnjù,prep.,"according to, based on",17
@@ -223,7 +223,7 @@ Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson
 头发,tóufa,n.,hair,16
 突然,tūrán,adv.,suddenly,6
 图书馆,túshūguǎn,n.,library,11
-退,tuì,n.,leg,2
+腿,tuǐ,n.,leg,2
 完成,wánchéng,v.,to complete,15
 碗,wǎn,n.,bowl,20
 万,wàn,num.,ten thousand,18
