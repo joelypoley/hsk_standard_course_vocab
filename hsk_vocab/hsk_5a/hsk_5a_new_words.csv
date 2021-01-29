@@ -45,7 +45,7 @@ Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson
 彩虹,cǎihóng,n.,rainbow,3
 踩,cǎi,v.,"to step on, to tread on",13
 参与,cānyù,v.,to take part in,16
-漸愧,jiànkuì,adj.,ashamed,4
+惭愧,cánkuì,adj.,ashamed,4
 (躲)藏,(duǒ)cáng,v.,to hide,5
 操场,cāochǎng,n.,"sports ground, playground",10
 曾经,céngjīng,adv.,"once, in the past",9
@@ -63,7 +63,7 @@ Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson
 成就,chéngjiù,n.,"achievement, accomplishment",4
 成熟,chéngshú,v./adj.,to ripen; mature,10
 成语,chéngyǔ,n.,"idiom, set phrase",7
-诚恩,chéng'ēn,adj.,"sincere, earnest",4
+诚恳,chéngkěn,adj.,"sincere, earnest",4
 程度,chéngdù,n.,"degree, level",12
 吃亏,chīkuī,v.,to suffer losses,8
 迟早,chízǎo,adv.,sooner or later,15
@@ -73,14 +73,13 @@ Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson
 充满,chōngmǎn,v.,to be full of,5
 重复,chóngfù,v.,to repeat,13
 宠物,chǒngwù,n.,pet,8
-抽象,chōuxiàng,adj./v.,abstract; to draw a correct conclusion from,18
-丑(陋),chǒu(lòu),adj.,objective facts,18
-出自,chūzì,v.,ugly,18
-除,chú,v.,"to come from, to stem from",6
-除夕,Chúxī,n.,"to get rid of, to remove",6
-传说,chuánshuō,n.,eve of the Lunar New Year/Spring Festival,5
-传统,chuántǒng,n./adj.,legend,11
-窗帘,chuānglián,n.,tradition; traditional,11
+抽象,chōuxiàng,adj./v.,abstract; to draw a correct conclusion from objective facts,18
+丑(陋),chǒu(lòu),adj.,ugly,18
+出自,chūzì,v.,"to come from, to stem from",18
+除,chú,v.,"to get rid of, to remove",6
+除夕,chúxī,n.,eve of the Lunar New Year/Spring Festival,6
+传说,chuánshuō,n.,legend,5
+传统,chuántǒng,n./adj.,tradition; traditional,11
 窗帘,chuānglián,n.,curtain,11
 创造,chuàngzào,v.,"to create, to produce",14
 词汇,cíhuì,n.,vocabulary,8
@@ -166,7 +165,7 @@ Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson
 根,gēn,m./n.,"root, foundation; a measure word for long and thin objects",7
 工程师,gōngchéngshī,n.,engineer,13
 工具,gōngjù,n.,"tool, instrument",13
-エ人,エrén,n.,worker,3
+エ人,gōngrén,n.,worker,3
 公元,gōngyuán,n.,Christian era,15
 功能,gōngnéng,n.,function,14
 姑姑,gūgu,n.,"aunt, father's sister",2
@@ -446,7 +445,7 @@ Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson
 危害,wēihài,v.,"to harm, to jeopardize",11
 微笑,wēixiào,v./n.,to smile; smile,2
 为,wéi,v.,to become,5
-为,wéi,prep.,"(often. used together with ""Pf "") by (sb.)",14
+为,wéi,prep.,"(often. used together with ""所"") by (sb.)",14
 围绕,wéirào,v.,to center around,10
 尾巴,wěiba,n.,tail,7
 委屈,wěiqu,v./adj.,to do (sb.) wrong; feeling wronged,4
