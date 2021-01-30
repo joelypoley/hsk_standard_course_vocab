@@ -1,301 +1,388 @@
-Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson
-爱情,àiqíng,n.,love (between a man and a woman),1
-安排,ānpái,v.,to arrange,3
-按时,ànshí,adv.,"on time, on schedule",4
-按照,ànzhào,prep.,according to,4
-百分之,bǎifēnzhī,,percent,6
-保证,bǎozhèng,v.,to guarantee,4
-倍,bèi,m.,"times, -fold",6
-本来,běnlái,adv.,"originally, at first",3
-比如,bǐrú,v.,"for example, such as",10
-毕业,bìyè,v.,to graduate,2
-标准,biāozhǔn,n.,standard,5
-饼干,bǐnggān,n.,biscuit,9
-不得不,bùdébù,,"to have to, to have no choice but",4
-不管,bùguǎn,conj.,"no matter (what, how, etc.)",3
-不过,bùguò,conj.,"but, yet",10
-不仅,bùjǐn,conj.,not only,1
-擦,cā,v.,to wipe,7
-材料,cáiliào,n.,"data, material",3
-差不多,chàbuduō,adv.,almost,2
-尝,cháng,v.,to taste,6
-超过,chāoguò,v.,"to exceed, to surpass",7
-成功,chénggōng,adj.,successful,4
-成为,chéngwéi,v.,to become,8
-诚实,chéngshí,adj.,honest,3
-重新,chóngxīn,adv.,"again, once more",2
-抽烟,chōuyān,,to smoke,7
-出现,chūxiàn,v.,"to appear, to emerge",7
-窗戶,chuānghu,n.,window,7
-从来,cónglái,adv.,"always, all along",1
-答案,dá'àn,n.,"answer, key",10
-打扰,dǎrǎo,v.,"to disturb, to bother",6
-打折,dǎzhé,v.,to give a discount,5
-大使馆,dàshǐguǎn,n.,embassy,8
-大夫,dàifu,n.,doctor,7
-当,dāng,prep.,"when, just at (a time or place)",2
-当时,dāngshí,n.,"then, at that time",9
-到处,dàochù,adv.,everywhere,8
-得,děi,mod.,"must, have to",9
-等,děng,part.,"etc., and so on",10
-低,dī,adj.,low,10
-调查,diàochá,v.,"to survey, to investigate",4
-掉,diào,v.,"used after certain verbs, indicating the result of an action",7
-动作,dòngzuò,n.,"action, movement",7
-堵车,dǔchē,v.,traffic jam,8
-肚子,dùzi,n.,"belly, stomach",7
-短信,duǎnxìn,n.,text message,2
-而,ér,conj.,"(showing a contrast) while, yet",2
-发生,fāshēng,v.,"to happen, to take place",8
-发展,fāzhǎn,v.,"to develop, to promote",10
-法律,fǎlǜ,n.,law,1
-翻译,fānyì,n.,"translator, interpreter",10
-烦恼,fánnǎo,adj.,"worried, vexed",7
-反对,fǎnduì,v.,"to oppose, to object to",7
-方法,fāngfǎ,n.,"method, way",4
-方面,fāngmiàn,n.,aspect,6
-方向,fāngxiàng,n.,"direction, orientation",10
-放弃,fàngqì,v.,to give up,9
-放松,fàngsōng,v.,to relax,8
-份,fèn,m.,used for jobs among other things,4
-丰富,fēngfù,v.,to enrich,2
-符合,fúhé,v.,to accord with,3
-负责,fùzé,v.,to be in charge of,3
-富,fù,adj.,"rich, wealthy",10
-改变,gǎibiàn,v.,to change,3
-感动,gǎndòng,v.,"to touch, to move",1
-感觉,gǎnjué,n.,feeling,3
-感情,gǎnqíng,n.,"affection, love",7
-感谢,gǎnxiè,v.,to thank,4
-刚,gāng,adv.,"just, not long",1
-各,gè,pron.,"various, different",6
-工资,gōngzī,n.,"pay, salary",4
-共同,gòngtóng,adj.,"common, shared",1
-购物,gòuwù,,"to shop, to buy things",5
-够,gòu,v.,to be enough,1
-估计,gūjì,v.,"to estimate, to reckon",7
-顾客,gùkè,n.,"customer, client",3
-关键,guānjiàn,n.,"hinge, crux",10
-光,guāng,adv.,"only, merely",5
-广告,guǎnggào,n.,advertisement,5
-逛,guàng,v.,"to stroll, to roam",2
-国际,guójì,n.,international,9
-果汁,guǒzhī,n.,fruit juice,6
-过程,guòchéng,n.,"course, process",9
-汗,hàn,n.,"sweat, perspiration",9
-好处,hǎochu,n.,"benefit, advantage",6
-好像,hǎoxiàng,adv.,as if,2
-后悔,hòuhuǐ,v.,to regret,7
-互相,hùxiāng,adv.,mutually,1
-回忆,huíyì,v.,"to call to mind, to recall",8
-活动,huódòng,n.,"activity, event",6
-获得,huòdé,v.,"to get, to obtain",6
-积极,jījí,adj.,positive,8
-积累,jīlěi,v.,to accumulate,4
-及时,jíshí,adv.,in time,2
-即使,jíshǐ,conj.,even if,1
-计划,jìhuà,n./ v.,plan; to intend to,4
-寄,jì,v.,"to mail, to send",5
-加班,jiābān,v.,to work overtime,1
-家具,jiājù,n.,furniture,5
-价格,jiàgé,n.,price,5
-坚持,jiānchí,v.,"to insist, to persist",9
-减肥,jiǎnféi,v.,to lose weight,7
-建议,jiànyì,n.,"suggestion, advice",10
-将来,jiānglái,n.,future,10
-奖金,jiǎngjīn,n.,"money award, bonus",4
-降低,jiàngdī,v.,"to lower, to reduce",6
-交,jiāo,v.,to make (friends),2
-交流,jiāoliú,v.,"to exchange, to communicate",2
-教授,jiàoshòu,n.,professor,7
-接受,jiēshòu,v.,to accept,1
-结果,jiēguǒ,n.,result,9
-尽管,jǐnguǎn,conj.,although,2
-紧张,jǐnzhāng,adj.,nervous,3
-经济,jīngjì,n.,economy,10
-经历,jīnglì,v.,"to go through, to experience",9
-经验,jīngyàn,n.,experience,4
-景色,jǐngsè,n.,"scene, view",8
-竟然,jìngrán,adv.,indicating unexpectedness,6
-镜子,jìngzi,n.,mirror,2
-举办,jǔbàn,v.,"to hold, to conduct",6
-举行,jǔxíng,v.,"to hold (a meeting, event, etc.)",6
-距离,jùlí,n.,distance,8
-聚会,jùhuì,v./n.,"to have a party; party, get-together",2
-开玩笑,kāiwánxiào,,to be kidding,1
-考虑,kǎolǜ,v.,to consider,5
-科学,kēxué,n.,science,8
-咳嗽,késou,v.,to cough,7
-可是,kěshì,conj.,"but, however",9
-肯定,kěndìng,adv.,"surely, certainly",5
-空气,kōngqì,n.,air,7
-空儿,kòngr,n.,"free time, spare time",10
-困,kùn,adj.,sleepy,10
-困难,kùnnán,n.,difficulty,2
-拉,lā,v.,"to pull, to drag",10
-来不及,láibují,v.,"to have not enough time to, to be too late to",7
-浪费,làngfèi,v.,to waste,5
-浪漫,làngmàn,adj.,romantic,1
-礼拜天,Lǐbàitiān,n.,Sunday,10
-理解,lǐjiě,v.,to understand,2
-理想,lǐxiǎng,n.,ideal,9
-例如,lìrú,v.,for example,6
-俩,liǎ,num.-m.,"two, both",1
-联系,liánxì,v.,to contact,2
-另外,lìngwài,conj.,"besides, in addition",3
-留,liú,v.,to leave,3
-流行,liúxíng,v.,to be popular,5
-律师,lǜshī,n.,lawyer,3
-乱,luàn,adj.,"burry-scurry, confused",4
-麻烦,máfan,v.,to bother,2
-满,mǎn,v.,to reach a quota or limit,6
-免费,miǎnfèi,v.,to be free of charge,6
-母亲,mǔqīn,n.,mother,10
-耐心,nàixīn,n.,patience,8
-难道,nándào,adv.,used in a rhetorical question for emphasis,9
-内,nèi,n.,"in, within",6
-能力,nénglì,n.,"ability, competence",3
-年龄,niánlíng,n.,age,5
-判断,pànduàn,v.,"to judge, to decide",3
-陪,péi,v.,to accompany,2
-皮肤,pífū,n.,skin,6
-脾气,píqi,n.,"temper, disposition",1
-篇,piān,m.,"used for writings, papers or articles",9
-平时,píngshí,n.,normal times,2
-葡萄,pútao,n.,grape,5
-其次,qícì,pron.,"second, next",3
-其中,qízhōng,n.,"among (which, them, etc.)",6
-气候,qìhòu,n.,climate,7
-巧克力,qiǎokèlì,n.,chocolate,8
-亲戚,qīnqi,n.,"relative, kinsfolk",8
-轻,qīng,adj.,"light, of little weight",6
-轻松,qīngsōng,adj.,"relaxed, effortless",9
-情况,qíngkuàng,n.,"situation, circumstances",6
-穷,qióng,adj.,"poor, impoverished",10
-区别,qūbié,n.,"difference, distinction",9
-取,qǔ,v.,"to gain, to seek",9
-缺点,quēdiǎn,n.,shortcoming,1
-缺少,quēshǎo,v.,to lack,8
-却,què,adv.,"but, yet",2
-确实,quèshí,adv.,"truly, indeed",10
-任何,rènhé,pron.,"any, whatever",5
-散步,sànbù,v.,to take a walk,7
-沙发,shāfā,n.,sofa,5
-伤心,shāngxīn,adj.,"sad, sorrowful",8
-深,shēn,adj.,deep,1
-甚至,shènzhì,conj.,"even, so far as to",4
-生活,shēnghuó,n./v.,life; to live,1
-生命,shēngmìng,n.,life,8
-生意,shēngyì,n.,"business, trade",4
-失败,shībài,v.,to fail,9
-师傅,shīfu,n.,a polite title for one with accomplished skills in a trade or handicraft,8
-实际,shíjì,n.,reality,5
-实在,shízài,adv.,really,5
-使,shǐ,v.,"to make, to cause",8
-适合,shìhé,v.,"to suit, to fit",1
-适应,shìyìng,v.,to get used to,2
-收入,shōurù,n.,income,3
-首先,shǒuxiān,pron.,first,3
-受到,shòudào,v.,to receive,5
-售货员,shòuhuòyuán,n.,salesperson,6
-熟悉,shúxī,v.,to be familiar with,1
-数字,shùzì,n.,number,7
-帅,shuài,adj.,handsome,7
-顺便,shùnbiàn,adv.,in passing,5
-顺利,shùnlì,adj.,smooth,4
-说明,shuōmíng,v.,"to explain, to show",7
-硕士,shuòshì,n.,"Master, person who has a master's degree",10
-随便,suíbiàn,adj.,"casual, at random",9
-所有,suǒyǒu,adj.,all,6
-台,tái,m.,used for machines,5
-态度,tàidu,n.,attitude,8
-谈,tán,v.,"to talk, to discuss",4
-糖,táng,n.,"sugar, candy",10
-躺,tǎng,v.,to lie (on one's back),10
-讨厌,tǎoyàn,v.,to dislike,2
-特点,tèdiǎn,n.,characteristic,8
-提,tí,v.,to mention,4
-提供,tígōng,v.,to provide,3
-提前,tíqián,v.,to do (sth.) in advance or ahead of time,4
-提醒,tíxǐng,v.,to remind,4
-条件,tiáojiàn,n.,condition,10
-挺,tǐng,adv.,"quite, rather",3
-通过,tōngguò,prep.,"through, by means of",9
-通知,tōngzhī,v.,to inform,3
-袜子,wàzi,n.,socks,6
-完全,wánquán,adv.,completely,4
-网球,wǎngqiú,n.,tennis,9
-往往,wǎngwǎng,adv.,"often, usually",8
-味道,wèidao,n.,taste,5
-无聊,wúliáo,adj.,boring,2
-西红柿,xīhóngshì,n.,tomato,6
-吸引,xīyǐn,v.,to attract,1
-现金,xiànjīn,n.,cash,5
-羡慕,xiànmù,v.,"to envy, to admire",1
-橡皮,xiàngpí,n.,"eraser, rubber",10
-消息,xiāoxi,n.,news,4
-小说,xiǎoshuō,n.,"novel, fiction",6
-效果,xiàoguǒ,n.,effect,5
-心情,xīnqíng,n.,"mood, state of mind",8
-辛苦,xīnkǔ,adj.,"hard, toilsome",7
-信心,xìnxīn,n.,confidence,3
-兴奋,xīngfèn,adj.,excited,10
-幸福,xìngfú,adj.,happy,1
-性格,xìnggé,n.,"character, personality",1
-修理,xiūlǐ,v.,"to repair, to mend",6
-许多,xǔduō,num.,"many, plenty of",9
-压力,yālì,n.,"pressure, stress",8
-严重,yánzhòng,adj.,"serious, grave",7
-研究,yánjiū,v.,"to study, to do research",7
-阳光,yángguāng,adj.,"optimistic, cheerful",8
-样子,yàngzi,n.,"look, appearance",5
-邀请,yāoqǐng,v.,to invite,5
-要是,yàoshi,conj.,"if, supposing",7
-一切,yīqiè,pron.,"all, every",4
-以为,yǐwéi,v.,"to think, to believe",4
-艺术,yìshù,n.,art,5
-因此,yīncǐ,conj.,"therefore, so",8
-印象,yìnxiàng,n.,impression,1
-贏,yíng,v.,to win,9
-应聘,yìngpìn,v.,to apply for a job,3
-永远,yǒngyuǎn,adv.,forever,10
-勇敢,yǒnggǎn,adj.,"brave, courageous",9
-优点,yōudiǎn,n.,merit,5
-优秀,yōuxiù,adj.,"excellent, outstanding",10
-幽默,yōumò,adj.,humourous,1
-尤其,yóuqí,adv.,especially,5
-由于,yóuyú,conj.,"because, since",10
-友谊,yǒuyì,n.,friendship,2
-愉快,yúkuài,adj.,"glad, cheerful",8
-与,yǔ,prep.,with,3
-原来,yuánlái,adj.,original,4
-原因,yuányīn,n.,reason,1
-约会,yuēhuì,v.,"to date, to go to an appointment",3
-咱们,zámen,pron.,"we, us",3
-暂时,zànshí,n.,"temporary, for the time being",9
-责任,zérèn,n.,"responsibility, duty",4
-招聘,zhāopìn,v.,to recruit,3
-真正,zhēnzhèng,adj.,"true, real",2
-正好,zhènghǎo,adv.,"just in time, just right",2
-正确,zhèngquè,adj.,"right, correct",9
-正式,zhèngshì,adj.,formal,3
-证明,zhèngmíng,v.,to prove,8
-支持,zhīchí,v.,to support,6
-知识,zhīshi,n.,knowledge,4
-值得,zhíde,v.,to be worth,6
-职业,zhíyè,n.,"occupation, profession",10
-植物,zhíwù,n.,plant,7
-只要,zhǐyào,conj.,"as long as, provided",8
-指,zhǐ,v.,to refer to,7
-至少,zhìshǎo,adv.,at least,9
-质量,zhìliàng,n.,quality,5
-周围,zhōuwéi,n.,surrounding,2
-主意,zhǔyi,n.,"idea, plan",9
-专门,zhuānmén,adv.,specially,2
-专业,zhuānyè,n.,"major, specialty",3
-赚,zhuàn,v.,to earn,4
-准时,zhǔnshí,adj.,"punctual, on time",3
-自然,zìrán,adv.,"naturally, certainly",1
-总结,zǒngjié,v.,to sum up,9
-最好,zuìhǎo,adv.,had better,1
-作家,zuòjiā,n.,writer,9
+Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Level,Characters Learned Before,Type
+爱情,àiqíng,n.,love (between a man and a woman),1,,,,New Word
+安排,ānpái,v.,to arrange,3,,,,New Word
+按时,ànshí,adv.,"on time, on schedule",4,,,,New Word
+按照,ànzhào,prep.,according to,4,,,,New Word
+百分之,bǎifēnzhī,,percent,6,,,,New Word
+保证,bǎozhèng,v.,to guarantee,4,,,,New Word
+倍,bèi,m.,"times, -fold",6,,,,New Word
+本来,běnlái,adv.,"originally, at first",3,,,,New Word
+比如,bǐrú,v.,"for example, such as",10,,,,New Word
+毕业,bìyè,v.,to graduate,2,,,,New Word
+标准,biāozhǔn,n.,standard,5,,,,New Word
+饼干,bǐnggān,n.,biscuit,9,,,,New Word
+不得不,bùdébù,,"to have to, to have no choice but",4,,,,New Word
+不管,bùguǎn,conj.,"no matter (what, how, etc.)",3,,,,New Word
+不过,bùguò,conj.,"but, yet",10,,,,New Word
+不仅,bùjǐn,conj.,not only,1,,,,New Word
+擦,cā,v.,to wipe,7,,,,New Word
+材料,cáiliào,n.,"data, material",3,,,,New Word
+差不多,chàbuduō,adv.,almost,2,,,,New Word
+尝,cháng,v.,to taste,6,,,,New Word
+超过,chāoguò,v.,"to exceed, to surpass",7,,,,New Word
+成功,chénggōng,adj.,successful,4,,,,New Word
+成为,chéngwéi,v.,to become,8,,,,New Word
+诚实,chéngshí,adj.,honest,3,,,,New Word
+重新,chóngxīn,adv.,"again, once more",2,,,,New Word
+抽烟,chōuyān,,to smoke,7,,,,New Word
+出现,chūxiàn,v.,"to appear, to emerge",7,,,,New Word
+窗戶,chuānghu,n.,window,7,,,,New Word
+从来,cónglái,adv.,"always, all along",1,,,,New Word
+答案,dá'àn,n.,"answer, key",10,,,,New Word
+打扰,dǎrǎo,v.,"to disturb, to bother",6,,,,New Word
+打折,dǎzhé,v.,to give a discount,5,,,,New Word
+大使馆,dàshǐguǎn,n.,embassy,8,,,,New Word
+大夫,dàifu,n.,doctor,7,,,,New Word
+当,dāng,prep.,"when, just at (a time or place)",2,,,,New Word
+当时,dāngshí,n.,"then, at that time",9,,,,New Word
+到处,dàochù,adv.,everywhere,8,,,,New Word
+得,děi,mod.,"must, have to",9,,,,New Word
+等,děng,part.,"etc., and so on",10,,,,New Word
+低,dī,adj.,low,10,,,,New Word
+调查,diàochá,v.,"to survey, to investigate",4,,,,New Word
+掉,diào,v.,"used after certain verbs, indicating the result of an action",7,,,,New Word
+动作,dòngzuò,n.,"action, movement",7,,,,New Word
+堵车,dǔchē,v.,traffic jam,8,,,,New Word
+肚子,dùzi,n.,"belly, stomach",7,,,,New Word
+短信,duǎnxìn,n.,text message,2,,,,New Word
+而,ér,conj.,"(showing a contrast) while, yet",2,,,,New Word
+发生,fāshēng,v.,"to happen, to take place",8,,,,New Word
+发展,fāzhǎn,v.,"to develop, to promote",10,,,,New Word
+法律,fǎlǜ,n.,law,1,,,,New Word
+翻译,fānyì,n.,"translator, interpreter",10,,,,New Word
+烦恼,fánnǎo,adj.,"worried, vexed",7,,,,New Word
+反对,fǎnduì,v.,"to oppose, to object to",7,,,,New Word
+方法,fāngfǎ,n.,"method, way",4,,,,New Word
+方面,fāngmiàn,n.,aspect,6,,,,New Word
+方向,fāngxiàng,n.,"direction, orientation",10,,,,New Word
+放弃,fàngqì,v.,to give up,9,,,,New Word
+放松,fàngsōng,v.,to relax,8,,,,New Word
+份,fèn,m.,used for jobs among other things,4,,,,New Word
+丰富,fēngfù,v.,to enrich,2,,,,New Word
+符合,fúhé,v.,to accord with,3,,,,New Word
+负责,fùzé,v.,to be in charge of,3,,,,New Word
+富,fù,adj.,"rich, wealthy",10,,,,New Word
+改变,gǎibiàn,v.,to change,3,,,,New Word
+感动,gǎndòng,v.,"to touch, to move",1,,,,New Word
+感觉,gǎnjué,n.,feeling,3,,,,New Word
+感情,gǎnqíng,n.,"affection, love",7,,,,New Word
+感谢,gǎnxiè,v.,to thank,4,,,,New Word
+刚,gāng,adv.,"just, not long",1,,,,New Word
+各,gè,pron.,"various, different",6,,,,New Word
+工资,gōngzī,n.,"pay, salary",4,,,,New Word
+共同,gòngtóng,adj.,"common, shared",1,,,,New Word
+购物,gòuwù,,"to shop, to buy things",5,,,,New Word
+够,gòu,v.,to be enough,1,,,,New Word
+估计,gūjì,v.,"to estimate, to reckon",7,,,,New Word
+顾客,gùkè,n.,"customer, client",3,,,,New Word
+关键,guānjiàn,n.,"hinge, crux",10,,,,New Word
+光,guāng,adv.,"only, merely",5,,,,New Word
+广告,guǎnggào,n.,advertisement,5,,,,New Word
+逛,guàng,v.,"to stroll, to roam",2,,,,New Word
+国际,guójì,n.,international,9,"国际机场
+国内游客",,,New Word
+果汁,guǒzhī,n.,fruit juice,6,,,,New Word
+过程,guòchéng,n.,"course, process",9,在...的过程中,,,New Word
+汗,hàn,n.,"sweat, perspiration",9,"流汗
+满头大汗 了
+汗水 ",,,New Word
+好处,hǎochu,n.,"benefit, advantage",6,,,,New Word
+好像,hǎoxiàng,adv.,as if,2,,,,New Word
+后悔,hòuhuǐ,v.,to regret,7,,,,New Word
+互相,hùxiāng,adv.,mutually,1,,,,New Word
+回忆,huíyì,v.,"to call to mind, to recall",8,,,,New Word
+活动,huódòng,n.,"activity, event",6,,,,New Word
+获得,huòdé,v.,"to get, to obtain",6,,,,New Word
+积极,jījí,adj.,positive,8,,,,New Word
+积累,jīlěi,v.,to accumulate,4,,,,New Word
+及时,jíshí,adv.,in time,2,,,,New Word
+即使,jíshǐ,conj.,even if,1,,,,New Word
+计划,jìhuà,n./ v.,plan; to intend to,4,,,,New Word
+寄,jì,v.,"to mail, to send",5,,,,New Word
+加班,jiābān,v.,to work overtime,1,,,,New Word
+家具,jiājù,n.,furniture,5,,,,New Word
+价格,jiàgé,n.,price,5,,,,New Word
+坚持,jiānchí,v.,"to insist, to persist",9,,,,New Word
+减肥,jiǎnféi,v.,to lose weight,7,,,,New Word
+建议,jiànyì,n.,"suggestion, advice",10,,,,New Word
+将来,jiānglái,n.,future,10,,,,New Word
+奖金,jiǎngjīn,n.,"money award, bonus",4,,,,New Word
+降低,jiàngdī,v.,"to lower, to reduce",6,,,,New Word
+交,jiāo,v.,to make (friends),2,,,,New Word
+交流,jiāoliú,v.,"to exchange, to communicate",2,,,,New Word
+教授,jiàoshòu,n.,professor,7,,,,New Word
+接受,jiēshòu,v.,to accept,1,,,,New Word
+结果,jiēguǒ,n.,result,9,"检查结果
+...结果 .... it turns out  ",,,New Word
+尽管,jǐnguǎn,conj.,although,2,,,,New Word
+紧张,jǐnzhāng,adj.,nervous,3,,,,New Word
+经济,jīngjì,n.,economy,10,,,,New Word
+经历,jīnglì,v.,"to go through, to experience",9,"经历 one- go v/n
+经验 n  accumulated ",,,New Word
+经验,jīngyàn,n.,experience,4,,,,New Word
+景色,jǐngsè,n.,"scene, view",8,,,,New Word
+竟然,jìngrán,adv.,indicating unexpectedness,6,,,,New Word
+镜子,jìngzi,n.,mirror,2,,,,New Word
+举办,jǔbàn,v.,"to hold, to conduct",6,,,,New Word
+举行,jǔxíng,v.,"to hold (a meeting, event, etc.)",6,,,,New Word
+距离,jùlí,n.,distance,8,,,,New Word
+聚会,jùhuì,v./n.,"to have a party; party, get-together",2,,,,New Word
+开玩笑,kāiwánxiào,,to be kidding,1,,,,New Word
+考虑,kǎolǜ,v.,to consider,5,,,,New Word
+科学,kēxué,n.,science,8,,,,New Word
+咳嗽,késou,v.,to cough,7,,,,New Word
+可是,kěshì,conj.,"but, however",9,softer than 但是 ,,,New Word
+肯定,kěndìng,adv.,"surely, certainly",5,,,,New Word
+空气,kōngqì,n.,air,7,,,,New Word
+空儿,kòngr,n.,"free time, spare time",10,,,,New Word
+困,kùn,adj.,sleepy,10,,,,New Word
+困难,kùnnán,n.,difficulty,2,,,,New Word
+拉,lā,v.,"to pull, to drag",10,,,,New Word
+来不及,láibují,v.,"to have not enough time to, to be too late to",7,,,,New Word
+浪费,làngfèi,v.,to waste,5,,,,New Word
+浪漫,làngmàn,adj.,romantic,1,,,,New Word
+礼拜天,Lǐbàitiān,n.,Sunday,10,,,,New Word
+理解,lǐjiě,v.,to understand,2,,,,New Word
+理想,lǐxiǎng,n.,ideal,9,"理想的工作
+实现自己的理想 ",,,New Word
+例如,lìrú,v.,for example,6,,,,New Word
+俩,liǎ,num.-m.,"two, both",1,,,,New Word
+联系,liánxì,v.,to contact,2,,,,New Word
+另外,lìngwài,conj.,"besides, in addition",3,,,,New Word
+留,liú,v.,to leave,3,,,,New Word
+流行,liúxíng,v.,to be popular,5,,,,New Word
+律师,lǜshī,n.,lawyer,3,,,,New Word
+乱,luàn,adj.,"burry-scurry, confused",4,,,,New Word
+麻烦,máfan,v.,to bother,2,,,,New Word
+满,mǎn,v.,to reach a quota or limit,6,,,,New Word
+免费,miǎnfèi,v.,to be free of charge,6,,,,New Word
+母亲,mǔqīn,n.,mother,10,,,,New Word
+耐心,nàixīn,n.,patience,8,,,,New Word
+难道,nándào,adv.,used in a rhetorical question for emphasis,9,,,,New Word
+内,nèi,n.,"in, within",6,,,,New Word
+能力,nénglì,n.,"ability, competence",3,,,,New Word
+年龄,niánlíng,n.,age,5,,,,New Word
+判断,pànduàn,v.,"to judge, to decide",3,,,,New Word
+陪,péi,v.,to accompany,2,,,,New Word
+皮肤,pífū,n.,skin,6,,,,New Word
+脾气,píqi,n.,"temper, disposition",1,,,,New Word
+篇,piān,m.,"used for writings, papers or articles",9,,,,New Word
+平时,píngshí,n.,normal times,2,,,,New Word
+葡萄,pútao,n.,grape,5,,,,New Word
+其次,qícì,pron.,"second, next",3,,,,New Word
+其中,qízhōng,n.,"among (which, them, etc.)",6,,,,New Word
+气候,qìhòu,n.,climate,7,,,,New Word
+巧克力,qiǎokèlì,n.,chocolate,8,,,,New Word
+亲戚,qīnqi,n.,"relative, kinsfolk",8,,,,New Word
+轻,qīng,adj.,"light, of little weight",6,,,,New Word
+轻松,qīngsōng,adj.,"relaxed, effortless",9,轻轻松松,,,New Word
+情况,qíngkuàng,n.,"situation, circumstances",6,,,,New Word
+穷,qióng,adj.,"poor, impoverished",10,,,,New Word
+区别,qūbié,n.,"difference, distinction",9,n/v,,,New Word
+取,qǔ,v.,"to gain, to seek",9,"取得成功
+取行李
+取名字",,,New Word
+缺点,quēdiǎn,n.,shortcoming,1,,,,New Word
+缺少,quēshǎo,v.,to lack,8,,,,New Word
+却,què,adv.,"but, yet",2,,,,New Word
+确实,quèshí,adv.,"truly, indeed",10,,,,New Word
+任何,rènhé,pron.,"any, whatever",5,,,,New Word
+散步,sànbù,v.,to take a walk,7,,,,New Word
+沙发,shāfā,n.,sofa,5,,,,New Word
+伤心,shāngxīn,adj.,"sad, sorrowful",8,,,,New Word
+深,shēn,adj.,deep,1,,,,New Word
+甚至,shènzhì,conj.,"even, so far as to",4,,,,New Word
+生活,shēnghuó,n./v.,life; to live,1,,,,New Word
+生命,shēngmìng,n.,life,8,,,,New Word
+生意,shēngyì,n.,"business, trade",4,,,,New Word
+失败,shībài,v.,to fail,9,失败者 ,,,New Word
+师傅,shīfu,n.,a polite title for one with accomplished skills in a trade or handicraft,8,,,,New Word
+实际,shíjì,n.,reality,5,,,,New Word
+实在,shízài,adv.,really,5,,,,New Word
+使,shǐ,v.,"to make, to cause",8,,,,New Word
+适合,shìhé,v.,"to suit, to fit",1,,,,New Word
+适应,shìyìng,v.,to get used to,2,,,,New Word
+收入,shōurù,n.,income,3,,,,New Word
+首先,shǒuxiān,pron.,first,3,,,,New Word
+受到,shòudào,v.,to receive,5,,,,New Word
+售货员,shòuhuòyuán,n.,salesperson,6,,,,New Word
+熟悉,shúxī,v.,to be familiar with,1,,,,New Word
+数字,shùzì,n.,number,7,,,,New Word
+帅,shuài,adj.,handsome,7,,,,New Word
+顺便,shùnbiàn,adv.,in passing,5,,,,New Word
+顺利,shùnlì,adj.,smooth,4,,,,New Word
+说明,shuōmíng,v.,"to explain, to show",7,,,,New Word
+硕士,shuòshì,n.,"Master, person who has a master's degree",10,,,,New Word
+随便,suíbiàn,adj.,"casual, at random",9,"随便吃
+这个人太随便了。 ",,,New Word
+所有,suǒyǒu,adj.,all,6,,,,New Word
+台,tái,m.,used for machines,5,,,,New Word
+态度,tàidu,n.,attitude,8,,,,New Word
+谈,tán,v.,"to talk, to discuss",4,,,,New Word
+糖,táng,n.,"sugar, candy",10,,,,New Word
+躺,tǎng,v.,to lie (on one's back),10,,,,New Word
+讨厌,tǎoyàn,v.,to dislike,2,,,,New Word
+特点,tèdiǎn,n.,characteristic,8,,,,New Word
+提,tí,v.,to mention,4,,,,New Word
+提供,tígōng,v.,to provide,3,,,,New Word
+提前,tíqián,v.,to do (sth.) in advance or ahead of time,4,,,,New Word
+提醒,tíxǐng,v.,to remind,4,,,,New Word
+条件,tiáojiàn,n.,condition,10,,,,New Word
+挺,tǐng,adv.,"quite, rather",3,,,,New Word
+通过,tōngguò,prep.,"through, by means of",9,s+ 通过+ method + （来） +v ,,,New Word
+通知,tōngzhī,v.,to inform,3,,,,New Word
+袜子,wàzi,n.,socks,6,,,,New Word
+完全,wánquán,adv.,completely,4,,,,New Word
+网球,wǎngqiú,n.,tennis,9,"打网球
+一场网球比赛 ",,,New Word
+往往,wǎngwǎng,adv.,"often, usually",8,,,,New Word
+味道,wèidao,n.,taste,5,,,,New Word
+无聊,wúliáo,adj.,boring,2,,,,New Word
+西红柿,xīhóngshì,n.,tomato,6,,,,New Word
+吸引,xīyǐn,v.,to attract,1,,,,New Word
+现金,xiànjīn,n.,cash,5,,,,New Word
+羡慕,xiànmù,v.,"to envy, to admire",1,,,,New Word
+橡皮,xiàngpí,n.,"eraser, rubber",10,,,,New Word
+消息,xiāoxi,n.,news,4,,,,New Word
+小说,xiǎoshuō,n.,"novel, fiction",6,,,,New Word
+效果,xiàoguǒ,n.,effect,5,,,,New Word
+心情,xīnqíng,n.,"mood, state of mind",8,,,,New Word
+辛苦,xīnkǔ,adj.,"hard, toilsome",7,,,,New Word
+信心,xìnxīn,n.,confidence,3,,,,New Word
+兴奋,xīngfèn,adj.,excited,10,,,,New Word
+幸福,xìngfú,adj.,happy,1,,,,New Word
+性格,xìnggé,n.,"character, personality",1,,,,New Word
+修理,xiūlǐ,v.,"to repair, to mend",6,,,,New Word
+许多,xǔduō,num.,"many, plenty of",9,,,,New Word
+压力,yālì,n.,"pressure, stress",8,,,,New Word
+严重,yánzhòng,adj.,"serious, grave",7,,,,New Word
+研究,yánjiū,v.,"to study, to do research",7,,,,New Word
+阳光,yángguāng,adj.,"optimistic, cheerful",8,,,,New Word
+样子,yàngzi,n.,"look, appearance",5,,,,New Word
+邀请,yāoqǐng,v.,to invite,5,,,,New Word
+要是,yàoshi,conj.,"if, supposing",7,,,,New Word
+一切,yīqiè,pron.,"all, every",4,,,,New Word
+以为,yǐwéi,v.,"to think, to believe",4,,,,New Word
+艺术,yìshù,n.,art,5,,,,New Word
+因此,yīncǐ,conj.,"therefore, so",8,,,,New Word
+印象,yìnxiàng,n.,impression,1,,,,New Word
+贏,yíng,v.,to win,9,,,,New Word
+应聘,yìngpìn,v.,to apply for a job,3,,,,New Word
+永远,yǒngyuǎn,adv.,forever,10,,,,New Word
+勇敢,yǒnggǎn,adj.,"brave, courageous",9,勇气 n,,,New Word
+优点,yōudiǎn,n.,merit,5,,,,New Word
+优秀,yōuxiù,adj.,"excellent, outstanding",10,,,,New Word
+幽默,yōumò,adj.,humourous,1,,,,New Word
+尤其,yóuqí,adv.,especially,5,,,,New Word
+由于,yóuyú,conj.,"because, since",10,,,,New Word
+友谊,yǒuyì,n.,friendship,2,,,,New Word
+愉快,yúkuài,adj.,"glad, cheerful",8,,,,New Word
+与,yǔ,prep.,with,3,,,,New Word
+原来,yuánlái,adj.,original,4,,,,New Word
+原因,yuányīn,n.,reason,1,,,,New Word
+约会,yuēhuì,v.,"to date, to go to an appointment",3,,,,New Word
+咱们,zámen,pron.,"we, us",3,,,,New Word
+暂时,zànshí,n.,"temporary, for the time being",9,暂时的失败 ,,,New Word
+责任,zérèn,n.,"responsibility, duty",4,,,,New Word
+招聘,zhāopìn,v.,to recruit,3,,,,New Word
+真正,zhēnzhèng,adj.,"true, real",2,,,,New Word
+正好,zhènghǎo,adv.,"just in time, just right",2,,,,New Word
+正确,zhèngquè,adj.,"right, correct",9,"正确的答案
+选择  & 准确 accurate",,,New Word
+正式,zhèngshì,adj.,formal,3,,,,New Word
+证明,zhèngmíng,v.,to prove,8,,,,New Word
+支持,zhīchí,v.,to support,6,,,,New Word
+知识,zhīshi,n.,knowledge,4,,,,New Word
+值得,zhíde,v.,to be worth,6,,,,New Word
+职业,zhíyè,n.,"occupation, profession",10,,,,New Word
+植物,zhíwù,n.,plant,7,,,,New Word
+只要,zhǐyào,conj.,"as long as, provided",8,,,,New Word
+指,zhǐ,v.,to refer to,7,,,,New Word
+至少,zhìshǎo,adv.,at least,9,,,,New Word
+质量,zhìliàng,n.,quality,5,,,,New Word
+周围,zhōuwéi,n.,surrounding,2,,,,New Word
+主意,zhǔyi,n.,"idea, plan",9,,,,New Word
+专门,zhuānmén,adv.,specially,2,,,,New Word
+专业,zhuānyè,n.,"major, specialty",3,,,,New Word
+赚,zhuàn,v.,to earn,4,,,,New Word
+准时,zhǔnshí,adj.,"punctual, on time",3,,,,New Word
+自然,zìrán,adv.,"naturally, certainly",1,,,,New Word
+总结,zǒngjié,v.,to sum up,9,总结出 ,,,New Word
+最好,zuìhǎo,adv.,had better,1,,,,New Word
+作家,zuòjiā,n.,writer,9,一位作家,,,New Word
+爱迪生,Àidíshēng,,"Thomas Alva Edison (1847-1931), an American inventor",9,,,,Proper Noun
+高,Gāo,,"Gao, a Chinese family name",1,,,,Proper Noun
+李,Lǐ,,"Li, a Chinese family name.",1,,,,Proper Noun
+李进,Lǐjìn,,"Li Jin, name of a person",1,,,,Proper Noun
+林,Lín,,"Lin, a Chinese family name",2,,,,Proper Noun
+马,Mǎ,,a Chinese family name,3,,,,Proper Noun
+马克,Mǎkè,,Mark,2,,,,Proper Noun
+上海,Shànghǎi,,"Shanghai, a city of China",2,,,,Proper Noun
+孙月,Sūnyuè,,"Sun Yue, name of a person",1,,,,Proper Noun
+王,Wáng,,"Wang, a Chinese Family name",4,,,,Proper Noun
+王红,Wánggōng,,"Wang Hong, name of a person",9,,,,Proper Noun
+王静,Wángjìng,,"Wang Jing, name of a person",1,,,,Proper Noun
+夏,Xià,,"Xia, a Chinese family name",2,,,,Proper Noun
+小雨,Xiǎoyǔ,,"Xiaoyu, name of a person",3,,,,Proper Noun
+张远,Zhāngyuǎn,,"Zhang Yuan, name of a person",2,,,,Proper Noun
+并,bìng,adv.,used before a negative for emphasis,4,,,,Word not included in the syllabus
+会员卡,huìyuánkǎ,n.,membership card,6,,,,Word not included in the syllabus
+既,jì,adv.,(used together with “又”) both...and...,7,,,,Word not included in the syllabus
+精神,jīngshén,n.,"spirit, mind",7,,5,,Word not included in the syllabus
+亮,liàng,v.,"to shine, to be lit",1,,5,,Word not included in the syllabus
+流血,liúxuè,v.,to bleed,7,,,,Word not included in the syllabus
+面对,miànduì,v.,"to face, to confront",9,面对困难 ,5,,Word not included in the syllabus
+星星,xīngxing,n.,star,1,,,,Word not included in the syllabus
+制冷,zhìlěng,v.,to refrigerate,5,,,,Word not included in the syllabus
+按,àn,prep.,according to,4,,,按照,New Word Made Up of Characters Learned before
+保,bǎo,v.,to guarantee,7,,,保证,New Word Made Up of Characters Learned before
+笔试,bǐshì,n.,written exam,3,,,铅笔、面试,New Word Made Up of Characters Learned before
+变,biàn,v.,"to change into, to become",1,,,改变,New Word Made Up of Characters Learned before
+不同,bùtóng,adj.,different,2,,,不、相同,New Word Made Up of Characters Learned before
+餐,cān,n.,meal,9,,,餐厅,New Word Made Up of Characters Learned before
+长期,chángqī,n.,long time,8,,,长、学期,New Word Made Up of Characters Learned before
+成,chéng,v.,"to succeed, to accomplish",4,,,成功,New Word Made Up of Characters Learned before
+处,chù,n.,someplace,7,,,到处,New Word Made Up of Characters Learned before
+窗,chuāng,n.,window,8,,,窗户,New Word Made Up of Characters Learned before
+得到,dédào,v.,to gain,8,,,获得、到,New Word Made Up of Characters Learned before
+堵,dǔ,v.,to block up,8,,,堵车,New Word Made Up of Characters Learned before
+父母,fùmǔ,n.,parents,9,,,父亲、母亲,New Word Made Up of Characters Learned before
+感到,gǎndào,v.,to feel,2,,,感觉、到,New Word Made Up of Characters Learned before
+购,gòu,v.,to buy,6,,,购物,New Word Made Up of Characters Learned before
+购买,gòumǎi,v.,"to buy, to purchase",5,,,购物、买,New Word Made Up of Characters Learned before
+货,huò,n.,stuff,6,,,售货员,New Word Made Up of Characters Learned before
+加,jiā,v.,to add,7,,,增加,New Word Made Up of Characters Learned before
+价钱,jiàqian,n.,price,6,,,价格、钱,New Word Made Up of Characters Learned before
+奖,jiǎng,n.,"award, praise",9,,,奖金,New Word Made Up of Characters Learned before
+街,jiē,n.,street,2,,,街道,New Word Made Up of Characters Learned before
+美,měi,adj.,beautiful,8,,,美丽,New Word Made Up of Characters Learned before
+面试,miànshì,n.,interview,3,,,见面、考试,New Word Made Up of Characters Learned before
+女性,nǚxìng,n.,woman,8,,,女、性别,New Word Made Up of Characters Learned before
+普通,pǔtōng,adj.,"common, ordinary",1,,,普通话,New Word Made Up of Characters Learned before
+商场,shāngchǎng,n.,shopping mall,5,,,商店、机场,New Word Made Up of Characters Learned before
+身边,shēnbiān,n.,at or by one's side,2,,,身体、旁边,New Word Made Up of Characters Learned before
+体育馆,tǐyùguǎn,n.,gymnasium,3,,,体育、图书馆,New Word Made Up of Characters Learned before
+小朋友,xiǎopéngyǒu,n.,kid,6,,,小、朋友,New Word Made Up of Characters Learned before
+校园,xiàoyuán,n.,campus,2,,,学校、公园,New Word Made Up of Characters Learned before
+新鲜感,xīnxiāngǎn,n.,feeling of freshness,1,,,新鲜、感觉,New Word Made Up of Characters Learned before
+有关,yǒuguān,v.,"to have sth, to do with",8,,,有、关系,New Word Made Up of Characters Learned before
+咱,zan,pron.,"I, we, us",5,,,咱们,New Word Made Up of Characters Learned before
+折,zhé,n.,discount,6,,,打折,New Word Made Up of Characters Learned before
+纸,zhǐ,n.,paper,7,,,报纸,New Word Made Up of Characters Learned before
+祝,zhù,v.,to wish,1,,,祝贺,New Word Made Up of Characters Learned before
+做客,zuòkè,v.,to be a guest,5,,,"做
+客人",New Word Made Up of Characters Learned before
+金钱,,,,,,,"奖金
+钱",Supplementary Vocabulary
+里面,,,,,,,"里
+前面、后面",Supplementary Vocabulary
+判断力,,,,,,,"判断
+能力",Supplementary Vocabulary
+葡萄汁,,,,,,,"葡萄
+果汁",Supplementary Vocabulary
+心烦,,,,,,,"担心
+烦恼",Supplementary Vocabulary
+优质,,,,,,,"优秀
+质量",Supplementary Vocabulary
+友情,,,,,,,"友谊
+爱情",Supplementary Vocabulary
