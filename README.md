@@ -8,17 +8,17 @@ This could be useful for building flashcard decks or other learning resources.
 
 This repo is a work in progress. The table below summarizes which of the word lists have been completed.
 
-| HSK Coursebook | New Words                                  | Proper Nouns | Words Not Included in the Syllabus | New Words Made Up of Characters Learned before | Supplementary Vocabulary |
-|----------------|--------------------------------------------|--------------|------------------------------------|------------------------------------------------|--------------------------|
-| HSK 1          | [✓](hsk_vocab/hsk_1/hsk_1_new_words.csv)   | ✘            | ✘                                  | ✘                                              | ✘                        |
-| HSK 2          | [✓](hsk_vocab/hsk_2/hsk_2_new_words.csv)   | ✘            | ✘                                  | ✘                                              | ✘                        |
-| HSK 3          | [✓](hsk_vocab/hsk_3/hsk_3_new_words.csv)   | ✘            | ✘                                  | ✘                                              | ✘                        |
-| HSK 4上        | [✓](hsk_vocab/hsk_4a/hsk_4a_new_words.csv) | ✘            | ✘                                  | ✘                                              | ✘                        |
-| HSK 4下        | [✓](hsk_vocab/hsk_4b/hsk_4b_new_words.csv) | ✘            | ✘                                  | ✘                                              | ✘                        |
-| HSK 5上        | [✓](hsk_vocab/hsk_5a/hsk_5a_new_words.csv) | ✘            | ✘                                  | -                                              | -                        |
-| HSK 5下        | [✓](hsk_vocab/hsk_5b/hsk_5b_new_words.csv) | ✘            | ✘                                  | -                                              | -                        |
-| HSK 6上        | ✘                                          | ✘            | ✘                                  | ✘                                              | ✘                        |
-| HSK 6下        | ✘                                          | ✘            | ✘                                  | ✘                                              | ✘                        |
+| HSK Coursebook | New Words | Proper Nouns | Words Not Included in the Syllabus | New Words Made Up of Characters Learned before | Supplementary Vocabulary |
+|----------------|-----------|--------------|------------------------------------|------------------------------------------------|--------------------------|
+| HSK 1          | ✓         | ✘            | ✘                                  | ✘                                              | ✘                        |
+| HSK 2          | ✓         | ✘            | ✘                                  | ✘                                              | ✘                        |
+| HSK 3          | ✓         | ✘            | ✘                                  | ✘                                              | ✘                        |
+| HSK 4上         | ✓         | ✓            | ✓                                  | ✓                                              | ✓                        |
+| HSK 4下         | ✓         | ✓            | ✓                                  | ✓                                              | ✘                        |
+| HSK 5上         | ✓         | ✘            | ✘                                  | -                                              | -                        |
+| HSK 5下         | ✓         | ✘            | ✘                                  | -                                              | -                        |
+| HSK 6上         | ✘         | -            | ✘                                  | -                                              | -                        |
+| HSK 6下         | ✘         | -            | ✘                                  | -                                              | -                        |
 
 
 ✓ = Done.
