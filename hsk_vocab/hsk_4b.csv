@@ -2,7 +2,7 @@ Unique Key,Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Leve
 安全 (4.18) New Word,安全,ānquán,adj.,"safe, secure",4.18,,,,New Word,4下
 棒 (4.15) New Word,棒,bàng,adj.,"excellent, amazing",4.15,,,,New Word,4下
 包子 (4.19) New Word,包子,bāozi,n.,steamed stuffed bun,4.19,,,,New Word,4下
-保护 (4.12) New Word,保护,bǎohù,v.,to protect,4.12,,,,New Word,4下
+保护 (4.12) New Word,保护,bǎohù,v.,to protect,4.12,n./v.,,,New Word,4下
 报名 (4.16) New Word,报名,bàomíng,v.,"to apply, to sign up",4.16,,,,New Word,4下
 抱 (4.17) New Word,抱,bào,v.,"to hold in the arms, to hug",4.17,,,,New Word,4下
 抱歉 (4.14) New Word,抱歉,bàoqiàn,v.,to be sorry,4.14,,,,New Word,4下
@@ -12,7 +12,7 @@ Unique Key,Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Leve
 表示 (4.11) New Word,表示,biǎoshì,v.,"to express, to indicate",4.11,表示..意思,,,New Word,4下
 表演 (4.13) New Word,表演,biǎoyǎn,v.,"to act, to perform",4.13,,,,New Word,4下
 表扬 (4.15) New Word,表扬,biǎoyáng,v.,"to praise, to commend",4.15,,,,New Word,4下
-并且 (4.12) New Word,并且,bìngqiě,conj.,and,4.12,,,,New Word,4下
+并且 (4.12) New Word,并且,bìngqiě,conj.,and,4.12,as well as,,,New Word,4下
 博士 (4.16) New Word,博士,bóshì,n.,doctor (academic degree),4.16,,,,New Word,4下
 部分 (4.13) New Word,部分,bùfen,n.,part,4.13,,,,New Word,4下
 猜 (4.11) New Word,猜,cāi,v.,to guess,4.11,"v+ 一下；VV； 
@@ -53,7 +53,7 @@ Unique Key,Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Leve
 丟 (4.14) New Word,丟,diū,v.,"to throw, to cast",4.14,,,,New Word,4下
 对话 (4.20) New Word,对话,duìhuà,v.,to have a dialogue,4.20,,,,New Word,4下
 对面 (4.20) New Word,对面,duìmiàn,n.,"opposite, across",4.20,,,,New Word,4下
-对于 (4.12) New Word,对于,duìyú,prep.,"for, to, with regard to",4.12,,,,New Word,4下
+对于 (4.12) New Word,对于,duìyú,prep.,"for, to, with regard to",4.12,对于+topic； 对于sb 来说 ,,,New Word,4下
 儿童 (4.15) New Word,儿童,értóng,n.,children,4.15,,,,New Word,4下
 房东 (4.19) New Word,房东,fángdōng,n.,landlord/landlady,4.19,,,,New Word,4下
 放暑假 (4.17) New Word,放暑假,fàngshǔjiǎ,,to be on summer vacation,4.17,,,,New Word,4下
@@ -77,7 +77,8 @@ Unique Key,Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Leve
 观众 (4.13) New Word,观众,guānzhòng,n.,audience,4.13,,,,New Word,4下
 管理 (4.15) New Word,管理,guǎnlǐ,v.,"to manage, to administer",4.15,,,,New Word,4下
 广播 (4.17) New Word,广播,guǎngbō,n.,"broadcast, radio program",4.17,,,,New Word,4下
-规定 (4.12) New Word,规定,guīdìng,n.,"rule, regulation",4.12,,,,New Word,4下
+规定 (4.12) New Word,规定,guīdìng,n.,"rule, regulation",4.12,"公司；政府规定 
+v/n ",,,New Word,4下
 国籍 (4.19) New Word,国籍,guójí,n.,"nationality, citizenship",4.19,,,,New Word,4下
 海洋 (4.17) New Word,海洋,hǎiyáng,n.,"sea, ocean",4.17,,,,New Word,4下
 害羞 (4.15) New Word,害羞,hàixiū,v.,"to be shy, to be timid",4.15,,,,New Word,4下
@@ -107,11 +108,12 @@ Unique Key,Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Leve
 郊区 (4.16) New Word,郊区,jiāoqū,n.,"suburb, outskirts",4.16,,,,New Word,4下
 骄傲 (4.15) New Word,骄傲,jiāo'ào,adj.,"arrogant, conceited",4.15,,,,New Word,4下
 饺子 (4.19) New Word,饺子,jiǎozi,n.,"jiaozi, dumpling",4.19,,,,New Word,4下
-教育 (4.12) New Word,教育,jiàoyù,v.,to educate,4.12,,,,New Word,4下
+教育 (4.12) New Word,教育,jiàoyù,v.,to educate,4.12,v/n,,,New Word,4下
 接着 (4.18) New Word,接着,jiēzhe,adv.,"then, immediately after that",4.18,,,,New Word,4下
-节 (4.12) New Word,节,jié,m.,"section, length",4.12,,,,New Word,4下
-节约 (4.12) New Word,节约,jiéyuē,v.,"to economize, to save",4.12,,,,New Word,4下
-解释 (4.12) New Word,解释,jiěshì,v.,to explain,4.12,,,,New Word,4下
+节 (4.12) New Word,节,jié,m.,"section, length",4.12,课； 车厢 xiang1,,,New Word,4下
+节约 (4.12) New Word,节约,jiéyuē,v.,"to economize, to save",4.12,节约时间；节约用水  ,,,New Word,4下
+解释 (4.12) New Word,解释,jiěshì,v.,to explain,4.12,"向 sb 解释；
+v/n 接受你的解释",,,New Word,4下
 进行 (4.13) New Word,进行,jìnxíng,v.,"to conduct, to carry out",4.13,,,,New Word,4下
 禁止 (4.19) New Word,禁止,jìnzhǐ,v.,"to prohibit, to forbid",4.19,,,,New Word,4下
 京剧 (4.13) New Word,京剧,Jīngjù,n.,Beijing opera,4.13,,,,New Word,4下
@@ -142,7 +144,7 @@ Unique Key,Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Leve
 冷静 (4.16) New Word,冷静,lěngjìng,adj.,"calm, composed",4.16,,,,New Word,4下
 礼貌 (4.16) New Word,礼貌,lǐmào,n.,polite,4.16,,,,New Word,4下
 理发 (4.19) New Word,理发,lǐfà,v.,to get a haircut,4.19,,,,New Word,4下
-力气 (4.12) New Word,力气,lìqi,n.,"physical strength, effort",4.12,,,,New Word,4下
+力气 (4.12) New Word,力气,lìqi,n.,"physical strength, effort",4.12,花了很大的力气 do ,,,New Word,4下
 厉害 (4.11) New Word,厉害,lìhai,adj.,"awesome, serious",4.11,病得很厉害,,,New Word,4下
 连 (4.11) New Word,连,lián,prep.,even,4.11,"连 +noun+ 也/都 +sentence
 连汉字也会写",,,New Word,4下
@@ -184,15 +186,16 @@ Unique Key,Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Leve
 全部 (4.12) New Word,全部,quánbù,n.,"all, whole",4.12,,,,New Word,4下
 然而 (4.11) New Word,然而,rán'ér,conj.,"but, however",4.11,,,,New Word,4下
 热闹 (4.17) New Word,热闹,rènao,adj.,"busy, bustling",4.17,,,,New Word,4下
-任务 (4.12) New Word,任务,rènwu,n.,"task, mission",4.12,,,,New Word,4下
+任务 (4.12) New Word,任务,rènwu,n.,"task, mission",4.12,主要的任务 ,,,New Word,4下
 扔 (4.14) New Word,扔,rēng,v.,to throw away,4.14,,,,New Word,4下
 仍然 (4.17) New Word,仍然,réngrán,adv.,"still, yet",4.17,,,,New Word,4下
 日记 (4.18) New Word,日记,rìjì,n.,"diary, journal",4.18,,,,New Word,4下
 入口 (4.17) New Word,入口,rùkǒu,n.,entrance,4.17,,,,New Word,4下
 森林 (4.17) New Word,森林,sēnlín,n.,forest,4.17,,,,New Word,4下
-商量 (4.12) New Word,商量,shāngliang,v.,"to discuss, to consult",4.12,,,,New Word,4下
+商量 (4.12) New Word,商量,shāngliang,v.,"to discuss, to consult",4.12,跟 sb 商量一下  ,,,New Word,4下
 稍微 (4.13) New Word,稍微,shāowēi,adv.,"a little, slightly",4.13,,,,New Word,4下
-勺（子） (4.12) New Word,勺（子）,sháo(zi),n.,spoon,4.12,,,,New Word,4下
+勺（子） (4.12) New Word,勺（子）,sháo(zi),n.,spoon,4.12,"勺子 n ;
+一勺盐",,,New Word,4下
 社会 (4.17) New Word,社会,shèhuì,n.,society,4.17,,,,New Word,4下
 申请 (4.13) New Word,申请,shēnqǐng,v.,to apply for,4.13,,,,New Word,4下
 省 (4.13) New Word,省,shěng,n.,province,4.13,,,,New Word,4下
@@ -210,7 +213,7 @@ Unique Key,Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Leve
 输 (4.16) New Word,输,shū,v.,"to lose, to suffer defeat",4.16,,,,New Word,4下
 数量 (4.14) New Word,数量,shùliàng,n.,"quantity, amount",4.14,,,,New Word,4下
 顺序 (4.11) New Word,顺序,shùnxù,n.,"order, sequence",4.11,根据x 顺序 ,,,New Word,4下
-死 (4.12) New Word,死,sǐ,adj.,"rigid, inflexible",4.12,,,,New Word,4下
+死 (4.12) New Word,死,sǐ,adj.,"rigid, inflexible",4.12,规定是死的  ,,,New Word,4下
 速度 (4.14) New Word,速度,sùdù,n.,speed,4.14,,,,New Word,4下
 塑料袋 (4.14) New Word,塑料袋,sùliàodài,n.,plastic bag,4.14,,,,New Word,4下
 酸 (4.20) New Word,酸,suān,adj.,"sour, tart",4.20,,,,New Word,4下
@@ -235,14 +238,15 @@ Unique Key,Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Leve
 文章 (4.11) New Word,文章,wénzhāng,n.,"essay, article",4.11,一篇文章,,,New Word,4下
 污染 (4.14) New Word,污染,wūrǎn,v.,to pollute,4.14,,,,New Word,4下
 无 (4.12) New Word,无,wú,v.,"not to have, to be without",4.12,,,,New Word,4下
-无法 (4.12) New Word,无法,wúfǎ,v.,"cannot to, to be unable (to do sth.)",4.12,,,,New Word,4下
+无法 (4.12) New Word,无法,wúfǎ,v.,"cannot to, to be unable (to do sth.)",4.12,没有办法 ,,,New Word,4下
 无论 (4.11) New Word,无论,wúlùn,conj.,"regardless of, no matter (what, how, when, etc.)",4.11,,,,New Word,4下
-误会 (4.12) New Word,误会,wùhuì,n.,misunderstanding,4.12,,,,New Word,4下
+误会 (4.12) New Word,误会,wùhuì,n.,misunderstanding,4.12,"v 误会sb
+引起误会",,,New Word,4下
 咸 (4.18) New Word,咸,xián,adj.,salty,4.18,,,,New Word,4下
 相反 (4.12) New Word,相反,xiāngfǎn,conj.,on the contrary,4.12,,,,New Word,4下
 相同 (4.11) New Word,相同,xiāngtóng,adj.,same,4.11,,,,New Word,4下
 香 (4.20) New Word,香,xiāng,adj.,"fragrant, scented",4.20,,,,New Word,4下
-详细 (4.12) New Word,详细,xiángxì,adj.,detailed,4.12,,,,New Word,4下
+详细 (4.12) New Word,详细,xiángxì,adj.,detailed,4.12,细节 n ,,,New Word,4下
 响 (4.15) New Word,响,xiǎng,v.,"to sound, to ring",4.15,,,,New Word,4下
 小吃 (4.20) New Word,小吃,xiǎochī,n.,small and cheap dishes,4.20,,,,New Word,4下
 小伙子 (4.16) New Word,小伙子,xiǎohuǒzi,n.,young man,4.16,,,,New Word,4下
@@ -256,7 +260,7 @@ Unique Key,Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Leve
 牙膏 (4.14) New Word,牙膏,yágāo,n.,toothpaste,4.14,,,,New Word,4下
 呀 (4.16) New Word,呀,ya,part.,"a variant of the interjection ""阿"", used at the end of a question to soften the tone",4.16,,,,New Word,4下
 严格 (4.17) New Word,严格,yángé,adj.,"strict, rigorous",4.17,,,,New Word,4下
-盐 (4.12) New Word,盐,yán,n.,salt,4.12,,,,New Word,4下
+盐 (4.12) New Word,盐,yán,n.,salt,4.12,咸  ,,,New Word,4下
 眼镜 (4.19) New Word,眼镜,yǎnjìng,n.,"glasses, spectacles",4.19,,,,New Word,4下
 演出 (4.13) New Word,演出,yǎnchū,v.,"to perform, to put on (a show)",4.13,,,,New Word,4下
 演员 (4.13) New Word,演员,yǎnyuán,n.,actor/actress,4.13,,,,New Word,4下
@@ -265,10 +269,11 @@ Unique Key,Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Leve
 养成习惯 ",,,New Word,4下
 钥匙 (4.20) New Word,钥匙,yàoshi,n.,key,4.20,,,,New Word,4下
 也许 (4.12) New Word,也许,yěxǔ,adv.,"maybe, perhaps",4.12,,,,New Word,4下
-叶子 (4.12) New Word,叶子,yèzi,n.,leaf,4.12,,,,New Word,4下
+叶子 (4.12) New Word,叶子,yèzi,n.,leaf,4.12,一片,,,New Word,4下
 页 (4.11) New Word,页,yè,m.,page,4.11,第几页 ,,,New Word,4下
 以 (4.14) New Word,以,yǐ,prep.,"via, by means of",4.14,,,,New Word,4下
-意见 (4.12) New Word,意见,yìjiàn,n.,"opinion, suggestion",4.12,,,,New Word,4下
+意见 (4.12) New Word,意见,yìjiàn,n.,"opinion, suggestion",4.12,"接受sb意见；
+听取sb 意见 ",,,New Word,4下
 引起 (4.12) New Word,引起,yǐnqǐ,v.,"to cause, to lead to",4.12,,,,New Word,4下
 由 (4.13) New Word,由,yóu,prep.,by (sb.),4.13,,,,New Word,4下
 邮局 (4.18) New Word,邮局,yóujú,n.,post office,4.18,,,,New Word,4下
@@ -277,7 +282,7 @@ Unique Key,Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Leve
 于是 (4.14) New Word,于是,yúshì,conj.,"hence, therefore",4.14,,,,New Word,4下
 羽毛球 (4.19) New Word,羽毛球,yǔmáoqiú,n.,badminton,4.19,,,,New Word,4下
 语法 (4.11) New Word,语法,yǔfǎ,n.,grammar,4.11,,,,New Word,4下
-语言 (4.12) New Word,语言,yǔyán,n.,language,4.12,,,,New Word,4下
+语言 (4.12) New Word,语言,yǔyán,n.,language,4.12,门,,,New Word,4下
 预习 (4.16) New Word,预习,yùxí,v.,to prepare lessons before class,4.16,,,,New Word,4下
 原谅 (4.16) New Word,原谅,yuánliàng,v.,to forgive,4.16,,,,New Word,4下
 阅读 (4.11) New Word,阅读,yuèdú,v.,to read,4.11,阅读习惯 ： 合同 ,,,New Word,4下
@@ -291,7 +296,7 @@ Unique Key,Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Leve
 整理 (4.15) New Word,整理,zhěnglǐ,v.,"to tidy up, to arrange",4.15,,,,New Word,4下
 正常 (4.13) New Word,正常,zhèngcháng,adj.,"normal, regular",4.13,,,,New Word,4下
 之 (4.11) New Word,之,zhī,part.,connecting the modifier and the word modified,4.11,的,,,New Word,4下
-直接 (4.12) New Word,直接,zhíjiē,adj.,"direct, straight",4.12,,,,New Word,4下
+直接 (4.12) New Word,直接,zhíjiē,adj.,"direct, straight",4.12,间接 jian4,,,New Word,4下
 只好 (4.11) New Word,只好,zhǐhǎo,adv.,"cannot but, to be forced to",4.11,,,,New Word,4下
 纸袋 (4.13) New Word,纸袋,zhǐdài,n.,paper bag,4.13,,,,New Word,4下
 重 (4.14) New Word,重,zhòng,adj.,"heavy, weighty",4.14,,,,New Word,4下
@@ -301,12 +306,12 @@ Unique Key,Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Leve
 著名 (4.11) New Word,著名,zhùmíng,adj.,"famous,well-known",4.11,,,,New Word,4下
 转 (4.19) New Word,转,zhuǎn,v.,"to turn, to shift",4.19,,,,New Word,4下
 准确 (4.11) New Word,准确,zhǔnquè,adj.,"accurate, precise",4.11,,,,New Word,4下
-仔细 (4.12) New Word,仔细,zǐxì,adj.,"careful, meticulous",4.12,,,,New Word,4下
+仔细 (4.12) New Word,仔细,zǐxì,adj.,"careful, meticulous",4.12,小心 ,,,New Word,4下
 自信 (4.16) New Word,自信,zìxìn,adj.,self-confident,4.16,,,,New Word,4下
 租 (4.19) New Word,租,zū,v.,"to rent, to lease",4.19,,,,New Word,4下
 尊重 (4.16) New Word,尊重,zūnzhòng,v.,to respect,4.16,,,,New Word,4下
 左右 (4.15) New Word,左右,zuǒyòu,n.,"around, or so",4.15,,,,New Word,4下
-作用 (4.12) New Word,作用,zuòyòng,n.,function,4.12,,,,New Word,4下
+作用 (4.12) New Word,作用,zuòyòng,n.,function,4.12,uses,,,New Word,4下
 作者 (4.18) New Word,作者,zuòzhě,n.,author,4.18,,,,New Word,4下
 座 (4.18) New Word,座,zuò,m.,"used for bridges, mountains, buildings, etc.",4.18,,,,New Word,4下
 座位 (4.19) New Word,座位,zuòwèi,n.,seat,4.19,,,,New Word,4下
@@ -321,7 +326,7 @@ Unique Key,Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Leve
 香山 (4.17) Proper Noun,香山,Xiāng Shān,,the Fragrant Hill (in Beijing),4.17,,,,Proper Noun,4下
 亚洲 (4.17) Proper Noun,亚洲,Yàzhōu,,Asia,4.17,,,,Proper Noun,4下
 吵 (4.19) Word Not Included in the Syllabus,吵,chǎo,adj.,noisy,4.19,,5,,Word Not Included in the Syllabus,4下
-达到 (4.12) Word Not Included in the Syllabus,达到,dádào,v.,"to reach, to attain",4.12,,5,,Word Not Included in the Syllabus,4下
+达到 (4.12) Word Not Included in the Syllabus,达到,dádào,v.,"to reach, to attain",4.12,达到目标  （sth you have set ) ,5,,Word Not Included in the Syllabus,4下
 代表 (4.16) Word Not Included in the Syllabus,代表,dàibiǎo,v.,"to represent, to stand for",4.16,,5,,Word Not Included in the Syllabus,4下
 方式 (4.18) Word Not Included in the Syllabus,方式,fāngshì,n.,"way, mode",4.18,,5,,Word Not Included in the Syllabus,4下
 怪 (4.20) Word Not Included in the Syllabus,怪,guài,adv.,"rather, quite",4.20,,,,Word Not Included in the Syllabus,4下
@@ -333,7 +338,8 @@ Unique Key,Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Leve
 笔记 (4.11) New Word Made Up of Characters Learned before,笔记,bǐjì,n.,notes,4.11,记笔记 ,,笔记本,New Word Made Up of Characters Learned before,4下
 表 (4.19) New Word Made Up of Characters Learned before,表,biǎo,n.,chart,4.19,,,表格,New Word Made Up of Characters Learned before,4下
 部 (4.17) New Word Made Up of Characters Learned before,部,bù,n.,part,4.17,,,部分,New Word Made Up of Characters Learned before,4下
-成 (4.12) New Word Made Up of Characters Learned before,成,chéng,v.,to become,4.12,,,成为,New Word Made Up of Characters Learned before,4下
+成 (4.12) New Word Made Up of Characters Learned before,成,chéng,v.,to become,4.12,"成为 +noun；变得+adj 
+谈成生意  resul",,成为,New Word Made Up of Characters Learned before,4下
 春游 (4.13) New Word Made Up of Characters Learned before,春游,chūnyóu,v.,to go on a spring outing,4.13,,,春、旅游,New Word Made Up of Characters Learned before,4下
 袋（子） (4.13) New Word Made Up of Characters Learned before,袋（子）,dài （ zi ）,n.,"bag, sack",4.13,,,塑料袋,New Word Made Up of Characters Learned before,4下
 风景 (4.20) New Word Made Up of Characters Learned before,风景,fēngjǐng,n.,scenery,4.20,,,景色,New Word Made Up of Characters Learned before,4下
@@ -357,10 +363,10 @@ Unique Key,Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Leve
 奇特 (4.18) New Word Made Up of Characters Learned before,奇特,qítè,adj.,"unusual, peculiar",4.18,,,奇怪、特别,New Word Made Up of Characters Learned before,4下
 气温 (4.17) New Word Made Up of Characters Learned before,气温,qìwēn,n.,(air) temperature,4.17,,,气候、温度,New Word Made Up of Characters Learned before,4下
 全 (4.17) New Word Made Up of Characters Learned before,全,quán,adj.,whole,4.17,,,全部,New Word Made Up of Characters Learned before,4下
-受 (4.12) New Word Made Up of Characters Learned before,受,shòu,v.,to receive,4.12,,,受到,New Word Made Up of Characters Learned before,4下
-数 (4.12) New Word Made Up of Characters Learned before,数,shù,n.,number,4.12,,,数量,New Word Made Up of Characters Learned before,4下
+受 (4.12) New Word Made Up of Characters Learned before,受,shòu,v.,to receive,4.12,受到sb 欢迎/喜欢,,受到,New Word Made Up of Characters Learned before,4下
+数 (4.12) New Word Made Up of Characters Learned before,数,shù,n.,number,4.12,次数 frequency  ,,数量,New Word Made Up of Characters Learned before,4下
 填 (4.16) New Word Made Up of Characters Learned before,填,tián,v.,to fill,4.16,,,填空,New Word Made Up of Characters Learned before,4下
-同样 (4.12) New Word Made Up of Characters Learned before,同样,tóngyàng,adj.,same,4.12,,,相同、一样,New Word Made Up of Characters Learned before,4下
+同样 (4.12) New Word Made Up of Characters Learned before,同样,tóngyàng,adj.,same,4.12,同样...还 ,,相同、一样,New Word Made Up of Characters Learned before,4下
 小区 (4.19) New Word Made Up of Characters Learned before,小区,xiǎoqū,n.,"residential community, neighborhood",4.19,,,小、郊区,New Word Made Up of Characters Learned before,4下
 信 (4.16) New Word Made Up of Characters Learned before,信,xìn,n.,letter,4.16,,,信封,New Word Made Up of Characters Learned before,4下
 兴趣 (4.11) New Word Made Up of Characters Learned before,兴趣,xìngqù,n.,interest,4.11,,,感兴趣,New Word Made Up of Characters Learned before,4下
