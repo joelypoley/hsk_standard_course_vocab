@@ -32,7 +32,7 @@ Unique Key,Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Leve
 [3.04] 超市 New Word,超市,chāoshì,n.,supermarket,3.04,,,,New Word,3
 [3.03] 衬衫 New Word,衬衫,chènshān,n.,shirt,3.03,,,,New Word,3
 [3.20] 成绩 New Word,成绩,chéngjì,n.,"grade, performance, achievement",3.20,,,,New Word,3
-[3.16] 城市 New Word,城市,chéngshì,prep.,other than,3.16,,,,New Word,3
+[3.16] 城市 New Word,城市,chéngshì,n.,city,3.16,,,,New Word,3
 [3.07] 迟到 New Word,迟到,chídào,v.,to be late,3.07,,,,New Word,3
 [3.15] 除了 New Word,除了,chúle,prep.,other than,3.15,,,,New Word,3
 [3.19] 船 New Word,船,chuán,n.,"boat, ship",3.19,,,,New Word,3
@@ -81,7 +81,7 @@ Unique Key,Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Leve
 [3.06] 更 New Word,更,gèng,adv.,"more, even more",3.06,,,,New Word,3
 [3.16] 公斤 New Word,公斤,gōngjīn,n.,kilogramme,3.16,,,,New Word,3
 [3.06] 公园 New Word,公园,gōngyuán,n.,park,3.06,,,,New Word,3
-[3.14] 故事 New Word,故事,gùshì,n.,story,3.14,,,,New Word,3
+[3.14] 故事 New Word,故事,gùshi,n.,story,3.14,,,,New Word,3
 [3.14] 刮风 New Word,刮风,guāfēng,v.,to be windy,3.14,,,,New Word,3
 [3.11] 关 New Word,关,guān,v.,"to turn off, to close",3.11,,,,New Word,3
 [3.16] 关系 New Word,关系,guānxi,n.,relationship,3.16,,,,New Word,3
@@ -282,9 +282,9 @@ Unique Key,Word/Phrase,Pinyin,Part of Speech,Meaning,Lesson,Shelley's Notes,Leve
 [3.05] 照顾 New Word,照顾,zhàogu,v.,to take care of,3.05,,,,New Word,3
 [3.04] 照片 New Word,照片,zhàopiàn,n.,photo,3.04,,,,New Word,3
 [3.20] 照相机 New Word,照相机,zhàoxiàngjī,n.,camera,3.20,,,,New Word,3
-[3.18] 只 New Word,只,zhǐ,m.,used for certain animals,3.18,,,,New Word,3
+[3.18] 只 New Word,只,zhī,m.,used for certain animals,3.18,,,,New Word,3
 [3.03] 只 New Word,只,zhǐ,adv.,"only, solely",3.03,,,,New Word,3
-[3.20] 只有……オ…… New Word,只有……オ……,zhǐyǒu……オ……,conj.,only...(that/can...),3.20,,,,New Word,3
+[3.20] 只有……オ…… New Word,只有……オ……,zhǐyǒu……cái……,conj.,only...(that/can...),3.20,,,,New Word,3
 [3.09] 中间 New Word,中间,zhōngjiān,n.,middle,3.09,,,,New Word,3
 [3.13] 终于 New Word,终于,zhōngyú,adv.,finally,3.13,,,,New Word,3
 [3.18] 种 New Word,种,zhǒng,m.,"kind, type",3.18,,,,New Word,3
